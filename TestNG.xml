@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestsCollection"> 
+	<test name="SmokeTests">
+        <classes>
+<!-- Smoke Tests -->
+			<class name="Tests.CreateNewAccount">
+				<methods>
+					<include name = "CreateNewAcc"/>
+				</methods>
+			</class>
+               <class name="Tests.LoginOut">
+				<methods>
+					<include name = "Logout"/>
+				</methods>
+			</class>
+            	
+			
+			
+         </classes>
+     </test> <!-- Test -->
+<test name="RegressionTests">
+        <classes>
+<!-- Regression Tests -->
+			<class name="Tests.LoginOK"/>
+            <class name="Tests.LoginOut"/>
+            <class name="Tests.CreateNewAccount"/>
+			
+         </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

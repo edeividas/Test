@@ -1,0 +1,15 @@
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas LoginOK  - Prisijungimas sekmingas!
+Testas LoginF  - Klaida! - Ávestas prisijungimo vardas ir/ arba slaptaþodis yra neteisingi
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas CreateNewAccF  - Klaidos Praneðimas!:Toks vartotojo vardas jau egzistuoja
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas LoginOK  - Prisijungimas sekmingas!
+Testas LoginF  - Klaida! - Ávestas prisijungimo vardas ir/ arba slaptaþodis yra neteisingi
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas CreateNewAccF  - Klaidos Praneðimas!:Toks vartotojo vardas jau egzistuoja
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas LoginOK  - Prisijungimas sekmingas!
+Testas LoginF  - Klaida! - Ávestas prisijungimo vardas ir/ arba slaptaþodis yra neteisingi
+Testas LoginOut  - Sëkmingai atsijungëte!
+Testas CreateNewAccF  - Klaidos Praneðimas!:Toks vartotojo vardas jau egzistuoja
